@@ -1,0 +1,11 @@
+mkdocs-material
+mkdocs-mermaid2-plugin
+mkdocs-drawio-file
+mkdocs-glightbox
+neoteroi-mkdocs
+pymdown-extensions
+essentials-openapi
+mkdocs-pdf
+mkdocs-awesome-pages-plugin
+mkdocs-render-swagger-plugin
+mkdocs-encryptcontent-plugin
